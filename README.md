@@ -1,5 +1,5 @@
 # DeliveryDriver
-Unity 3.1.2 Obstacles Game
+Unity 3.1.2 Obstacles 2D Game
 - WASD to move
   
 Playable builds: https://drive.google.com/drive/folders/14tZBc6_g1tlxn0uqmbkOFDLRoxvaZoSv?usp=sharing
